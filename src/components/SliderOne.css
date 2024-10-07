@@ -1,0 +1,35 @@
+.sliderOne {
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+    width: 100%;
+    height: 600px;
+    margin-top: 60px;
+}
+
+.sliderOne img {
+    width: 100%;
+    height: 600px;
+    display: block;
+}
+
+.sliderOne button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 18px;
+    z-index: 10;
+}
+
+.sliderOne button:nth-of-type(1) {
+    left: 10px;
+}
+
+.sliderOne button:nth-of-type(2) {
+    right: 10px;
+}

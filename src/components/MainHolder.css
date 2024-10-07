@@ -1,0 +1,49 @@
+#main-heading-container{
+    width: 932px;
+    height: 33px;
+}
+
+#main-heading p{
+    width: 358px;
+    height: 32px;
+}
+
+#main-heading-p{
+    font-size: 24px;
+    color: black;
+    text-align: center;
+    margin-left: 400px;
+    margin-bottom: 20px;
+    font-weight: bolder;
+}
+
+#sign-in{
+    width: 932px;
+    height: 45px;
+    margin: 10px 0px 0px;
+
+}
+
+#sign-in-container{
+    width: 256px;
+    height: 40px;
+    margin: 5px 10px 0px;
+    margin-left: 465px;
+    border: 1px solid #186ADC;
+    margin-top: 20px;
+}
+
+#sign-in-button{
+    width: 246px;
+    height: 40px;
+    color: "black";
+    font-size: 13px;
+    font-family: sans-serif;
+    font-weight: medium;
+    margin: 0px 10px 0px 0px ;
+    padding: 0px 30px;
+}
+
+#image-2{
+    margin-top: 50px;
+}
